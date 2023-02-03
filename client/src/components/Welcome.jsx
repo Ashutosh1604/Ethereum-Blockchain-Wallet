@@ -52,7 +52,7 @@ sendTransaction();
           Send Crypto <br/> across the world
         </h1>
         <p className="text-white text-left mt-5 font-light md:w-9/12 w-11/12 text-base">
-          Explore the crypto world. Buy and sell cryptocurrencies easily on Krypt.
+          Explore the crypto world. Buy and sell cryptocurrencies easily on Ethro.
         </p>
 
            {/*Connect wallet button render only if account is not connected */}
